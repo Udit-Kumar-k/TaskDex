@@ -1,4 +1,4 @@
-# Crystal Skies Pomodoro
+# TaskDex pokemon pomodoro app
 
 A Pokemon-themed Pomodoro timer app built with React and Vite. Focus on your work while your Pokemon partner gains experience and evolves!
 
